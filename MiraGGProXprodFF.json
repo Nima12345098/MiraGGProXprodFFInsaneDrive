@@ -6,9 +6,9 @@
         "Allowoffline": true
     },
     {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "15-06-2025",
+        "device_id": "cba1279b7be23409",
+        "key": "SHA-256-DIGEST",
+        "expirydate": "15-06-2026",
         "Allowoffline": false
     }
 ]
